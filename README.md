@@ -82,5 +82,10 @@ Em computadores Linux é necessario utilizar o terminal/shell no diretorio onde 
 
 ### Documentação:
 
+A documentação do projeto pode ser encontrada no endereço:
+https://altieres-moreira.github.io/DesafiodeProgramacaoCapgemini/
+
+ou na pasta docs do projeto atraves do arquivo: index.html
+
 
 
